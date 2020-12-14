@@ -2,9 +2,9 @@ THE BOGI
 
 Einführung in den Battle Of Glorious Ideas
 
-# Inhalt {#inhalt .TOC-Heading}
+# Inhalt
 
-[*BOGI -- Battle Of Glorious Ideas* 4](#bogi-battle-of-glorious-ideas)
+[*BOGI – Battle Of Glorious Ideas* 4](#bogi-battle-of-glorious-ideas)
 
 [Einleitung 4](#einleitung)
 
@@ -51,8 +51,7 @@ Einführung in den Battle Of Glorious Ideas
 
 [Veranstaltungen im *BOGI* 52](#veranstaltungen-im-bogi)
 
-[*BOGI* SESSION (\~ the weekly arena)
-54](#bogi-session-the-weekly-arena)
+[*BOGI* SESSION (~ the weekly arena) 54](#bogi-session-the-weekly-arena)
 
 [*BOGI* HACKATHON 73](#bogi-hackathon)
 
@@ -69,7 +68,7 @@ Einführung in den Battle Of Glorious Ideas
 
 [Weitere Hinweise und Links 100](#weitere-hinweise-und-links)
 
-# *BOGI -- Battle Of Glorious Ideas*
+# *BOGI – Battle Of Glorious Ideas*
 
 Ring frei für den **BATTLE OF GLORIOUS IDEAS!**
 
@@ -79,7 +78,7 @@ Oder: Willkommen bei der Einführung in den BOGI!
 
 *B.O.G.I.* bedeutet *Battle Of Glorious Ideas* - die Schlacht der
 glorreichen Ideen! Der *BOGI* ist ein schlankes Vorgehensmodell für
-Ideenfindung, -auswahl und -- umsetzung im Team. Damit stellt der *BOGI*
+Ideenfindung, -auswahl und – umsetzung im Team. Damit stellt der *BOGI*
 eine einfache Methode dar, die die strukturierte Innovation in
 Organisationen unterstützen und fördern soll. Ursprünglich wurde der
 BOGI in der Praxis entwickelt und erprobt. Ideen und Konzepte aus
@@ -184,7 +183,7 @@ sowie einleitende Betrachtungen des Frameworks.
 ## Motivation
 
 In einigen (vielleicht sogar vielen) Organisationen wird das kreative,
-„findige" Potenzial und die Erfahrung der Einzelnen nicht systematisch
+„findige“ Potenzial und die Erfahrung der Einzelnen nicht systematisch
 genutzt. Dies gilt für thematische Entwicklungs- und
 Problemlösungspotenziale, aber ebenso für die Weiterentwicklung der
 Organisation selbst. Man stellt oftmals leicht fest, dass viele
@@ -220,7 +219,7 @@ schrittweise selbst in die Lage versetzen, kooperativer und natürlicher
 an und mit wertvollen Ideen zu arbeiten. Kooperation, schlanke
 Koordination und die Beteiligung des Einzelnen sollen durch den *BOGI*
 tiefer im Organisationsalltag verankert werden. Eventuell auch, um
-„Wasserkopf"-lastige Strategieworkshops zu ersetzen, die nicht immer
+„Wasserkopf“-lastige Strategieworkshops zu ersetzen, die nicht immer
 nachhaltige Effekte generieren. Man kann den *BOGI* im Kontext von
 Change-Initiativen unterstützend einsetzen, um eine regelmäßige
 Teampraxis bei der aktiven Mitgestaltung oder dem Austausch von
@@ -229,7 +228,7 @@ Kombination gelingt, können Transformationsprozesse nachhaltiger in Gang
 gebracht werden.
 
 Der *BOGI* basiert auf Vorschlägen, aber nicht auf Dogmen . Das
-Framework kann von nach Belieben „gehackt" und an die speziellen
+Framework kann von nach Belieben „gehackt“ und an die speziellen
 Bedürfnisse oder Ziele einer Organisation angepasst werden. Der *BOGI*
 soll also keineswegs als Lehre aus dem Elfenbeinturm verstanden werden;
 er soll Anregungen schaffen, nicht Gesetze beschreiben. Diese Offenheit
@@ -240,23 +239,23 @@ angepasst werden.
 
 Der *BOGI* vereint folgende Aspekte in einem Ablauf:
 
-1)  **Partizipation**: Jeder kann Ideen und Perspektiven einbringen
+1.  **Partizipation**: Jeder kann Ideen und Perspektiven einbringen
 
-2)  **Sammlung**: Regelmäßige Aufnahme überzeugender Ideen
+2.  **Sammlung**: Regelmäßige Aufnahme überzeugender Ideen
 
-3)  **Screening**: Qualifizierung der Kandidaten durch das Team
+3.  **Screening**: Qualifizierung der Kandidaten durch das Team
 
-4)  ***Funnel*-Logik**: Ideen (\~ Innovationskandidaten) treten
+4.  ***Funnel*-Logik**: Ideen (~ Innovationskandidaten) treten
     gegeneinander in Etappen an und durchlaufen einen
-    „Innovationstrichter"
+    „Innovationstrichter“
 
-5)  **Selektion**: Auswahl von Kandidaten durch Teams / Individuen
+5.  **Selektion**: Auswahl von Kandidaten durch Teams / Individuen
 
-6)  **Schnelle Umsetzung**: Prototypenrealisierung im HACKATHON
+6.  **Schnelle Umsetzung**: Prototypenrealisierung im HACKATHON
 
-7)  **Pitch**: Präsentation und Kommunikation von Ergebnissen
+7.  **Pitch**: Präsentation und Kommunikation von Ergebnissen
 
-8)  **Nachhaltige Dokumentation**: Fließende Dokumentation und
+8.  **Nachhaltige Dokumentation**: Fließende Dokumentation und
     Aufarbeitung der Erkenntnisse für frühe Tests bei Stakeholdern,
     Kunden oder Experten
 
@@ -264,7 +263,7 @@ Die Abdeckung dieser Aspekte bildet den Kern des Frameworks ab. Damit
 sollen verschiedene Herausforderungen des Alltags behandelt werden.
 Diese sind:
 
--   **Dominanz weniger „Ideengenerierer":** In vielen Organisationen
+-   **Dominanz weniger „Ideengenerierer“:** In vielen Organisationen
     sind die Generierung und Auswahl von Ideen meist wenigen Experten
     vorbehalten. Dies führt zu einer unnötigen Verknappung von
     Potenzialen. Darüber hinaus kann es zu einer Gewichtung zugunsten
@@ -288,7 +287,7 @@ Diese sind:
     Sie werden erst von wenigen Early Adoptern evangelisiert, kommen
     dann in Mode, werden relevant für die Masse und straucheln häufig in
     der Realität an völlig überhöhten Erwartungshaltungen. Der *BOGI*
-    versucht hier, „untrendy" zu bleiben. Er soll situativ anpassbar
+    versucht hier, „untrendy“ zu bleiben. Er soll situativ anpassbar
     sein, alte und neue Methoden integrieren können und vor allem
     Abläufe zusammenführen. Dabei sind keine Experten nötig, um den
     *BOGI* in der eigenen Organisation zu implementieren. Machen Sie
@@ -321,8 +320,8 @@ Diese sind:
 
 -   **Tagesformabhängige Ideen**: Kreative Arbeit hat einen
     fundamentalen Nachteil: sie ist tagesformabhängig. Man kann nicht
-    jeden Tag die gleiche kreative „Leistung" abrufen oder gleichförmig
-    wertvolle Ideen generieren. Zudem -- und das weiß jeder Künstler --
+    jeden Tag die gleiche kreative „Leistung“ abrufen oder gleichförmig
+    wertvolle Ideen generieren. Zudem – und das weiß jeder Künstler –
     ist Ideenarbeit keine einmalige Veranstaltung, sie erfordert
     Kontinuität. Die kontinuierliche Auseinandersetzung mit einer
     Materie lässt im Laufe der Zeit neues Vokabular oder formale
@@ -339,7 +338,7 @@ Diese sind:
     Innovation zu sein. Das Gegenteil scheint jedoch manchmal der Fall
     zu sein. Z.B., wenn Mitarbeiter kein zeitliches Kontingent für die
     freie Arbeit an Konzepten oder Experimenten erhalten. Der *BOGI*
-    setzt hier ein Mindest- „Budget" voraus, damit eine Aufmerksamkeit
+    setzt hier ein Mindest- „Budget“ voraus, damit eine Aufmerksamkeit
     gegenüber neuen Ideen keine hohle Phrase ist. Ideenarbeit, die nicht
     in realen Zeitbudgets ausgedrückt werden kann, existiert nicht.
 
@@ -358,7 +357,7 @@ Der *Batlle Of Glorious Ideas* hat jedoch auch Einschränkungen, die an
 dieser Stelle nicht verschwiegen werden. Er ist limitiert in der
 Hinsicht, als dass keine Lösungsgarantie für eine bestimmte
 Problemstellung angeboten wird. Es wird nicht versucht, eine universelle
-Formel für „gute" oder „schlechte" Innovationskandidaten zu beschreiben.
+Formel für „gute“ oder „schlechte“ Innovationskandidaten zu beschreiben.
 Diesen qualifizierenden Deutungshorizont überlässt der *BOGI* den
 Organisationen und Teams selbst. Durch das Framework sollen keine
 Pauschalantworten gegeben werden, die den Wert von Ideen beschreiben.
@@ -501,7 +500,7 @@ wieder neue Ideen einen Rhythmus durchlaufen, so dass das Team mit der
 Zeit eigene Bewertungsmaßstäbe entwickelt und Lösungsstrategien
 flexibler wieder anwenden kann. Der *BOGI* bietet dem Einzelnen Raum für
 die Präsentation der eigenen Idee vor der Gruppe, für den Austausch von
-Argumenten in der Diskussion, Gates (\~ Tore) als
+Argumenten in der Diskussion, Gates (~ Tore) als
 Qualifizierungsmechanismus von Ideen und dafür, um funktionierende
 Entscheidungsfindungsmodelle zu provozieren. Zudem existiert Platz für
 gezieltes Experimentieren und Teamwork. Der BOGI gießt die Realität also
@@ -524,7 +523,7 @@ Methode angepriesen, die dann eigentlich schon Quasi-Standard zu sein
 verspricht. Es werden viele Zahlen und Expertenzitate ins Feld geführt
 und natürlich erwähnt wie die jahrelange Arbeit der klügsten Köpfe nun
 die finale Formel generieren konnte. Der *BOGI* ist hier anders. Jedes
-Team ist einfach „nur" dazu eingeladen, sich selbst ein Bild von dem
+Team ist einfach „nur“ dazu eingeladen, sich selbst ein Bild von dem
 Nutzen des *BOGI* im Kontext der eigenen Zielsetzung zu machen.
 Proof-of-Concept lautet hier eher die Devise. Die Vorteile des *BOGI*
 sollen dennoch im nächsten Abschnitt einleitend beschrieben werden.
@@ -547,7 +546,7 @@ Zertifikate oder teure Expertentrainings. Die Hürden sind also denkbar
 gering. Man kann den *BOGI* auch wieder unkompliziert abschaffen, wenn
 kein Nutzen ersichtlich wird. Die Risiken sind daher ebenfalls gering
 und das sind in Summe klare Vorteile. Die gemeinsame Arbeit an Ideen
-sollte Spaß machen -- der *BOGI* ist deshalb als *Challenge* konzipiert,
+sollte Spaß machen – der *BOGI* ist deshalb als *Challenge* konzipiert,
 die Ehrgeiz weckt, Menschen zusammenbringt und Spaß sowie Kreativität
 deutlich erlaubt. Das alles hilft dabei, eine fruchtbare Dynamik in Gang
 zu setzen. Somit bietet der *BOGI* eine Reihe vorteilhafter
@@ -608,10 +607,10 @@ zu generieren. Die Einladung zum *BOGI* ist gleichzeitig eine durchaus
 starke Botschaft, nämlich ein Aufruf zur Einflussname, der eventuell vom
 Management eines Unternehmens ausgehen kann. Der *BOGI* kann, wenn der
 Aufruf ernst gemeint ist, zu einer organisationsweiten Plattform für die
-Aktivierung „verborgener Superkräfte" werden. Er kann bewirken, dass die
+Aktivierung „verborgener Superkräfte“ werden. Er kann bewirken, dass die
 Organisation in einer konstruktiven Weise zu mehr Teilhabe und
 Partizipation bestärkt wird. Wenn das Framework positiv vermittelt,
-situativ angepasst („gehackt") und mit nachhaltiger Ambition
+situativ angepasst („gehackt“) und mit nachhaltiger Ambition
 implementiert wird, stimuliert der *BOGI* die individuelle Beteiligung
 und das Potential der gesamten Gruppe. Der Einzelne hat Gelegenheit
 sukzessive neue Fähigkeiten zu entwickeln, weil regelmäßig Präsentation,
@@ -703,7 +702,7 @@ die Summe der generierten und in Anteilen verwertbaren Ideen.
 ### Lohnt sich der *BOGI* / Wie ist mein ROI?
 
 Eine allgemeingültige Berechnung des *Returns on Invest (ROI)* für den
-*BOGI* kann man so nicht machen. Da der Ansatz offen, „hackbar" und
+*BOGI* kann man so nicht machen. Da der Ansatz offen, „hackbar“ und
 insbesondere qualitativ ausgerichtet ist, wären Angaben in dieser
 quantitativen Form schlichtweg unseriös und aus der Luft gegriffen. Die
 quantitative Messbarkeit der Effekte hängt davon ab, wie Sie das
@@ -729,7 +728,7 @@ definieren.
 
 Der explizite Nutzen lässt sich grundsätzlich auch bestimmen, wie zuvor
 bereits erklärt wurde. Den Nutzen kann man auf quantitativer sowie
-qualitativer Grundlage „messen". Die quantitative Messung ist in diesem
+qualitativer Grundlage „messen“. Die quantitative Messung ist in diesem
 Falle aber vielleicht so aussagekräftig. Warum nicht? Man könnte messen,
 wie viele Ideen als Output des Verfahrens zustande kommen und wie viele
 dieser Ideen jeweils mit Dritten erfolgreich getestet werden können.
@@ -746,7 +745,7 @@ oder kostengünstig umzusetzen wäre. Erst die Hinzunahme qualitativer
 Dimensionen erlaubt grundlegendste Analysen. Da nun die Zuweisung von
 Qualitäten von jeder Organisation im jeweiligen Kontext vorgenommen
 werden muss, sollen an dieser Stelle keine Pauschalaussagen getroffen
-werden. Fest steht aber, dass sich vieles „messen" lässt, sich Metriken
+werden. Fest steht aber, dass sich vieles „messen“ lässt, sich Metriken
 ableiten und Dimensionen definieren lassen. So können auch weiter
 Erkenntnisse über quantitative und qualitative Wirkzusammenhänge
 abgleitet werden.
@@ -808,7 +807,7 @@ Effekte oder tolle neue Möglichkeiten einstellen oder nicht.
 -   **Keine Domäne:** Der *BOGI* ist kein auf eine bestimmte Domäne
     zugeschnittenes Framework. Aus diesem Grunde werden auch keine
     *spitzen* Problembereiche adressiert, wie etwa „Stakeholder
-    Management in B2B IT-Projekten" oder ähnlich pointierte
+    Management in B2B IT-Projekten“ oder ähnlich pointierte
     Fragestellungen. Der *BOGI* kann aber auf spezielle Fragestellungen
     hin zugespitzt werden, so dass bestimmte Problemhorizonte fokussiert
     bearbeitet werden können.
@@ -873,7 +872,7 @@ entfachen, sollten Sie sich folgende Empfehlungen durchlesen:
     gemeinte Initiative kann schnell mit der operativen Wirklichkeit
     kollidieren, wenn Auswirkungen für die Praxis nicht durchdacht
     wurde. Teams und Einzelpersonen sollten sich eingeladen und befähigt
-    fühlen (\~ *Empowerment*), zu Ihrem *BOGI* beizutragen. Für alle
+    fühlen (~ *Empowerment*), zu Ihrem *BOGI* beizutragen. Für alle
     regulären (im Weiteren noch näher beschriebenen) *BOGI*-Sitzungen
     sollte im Vorfeld eine Faustregel als Orientierung und Konsens
     diskutiert werden, von der man individuell im Alltag ableiten kann,
@@ -888,9 +887,6 @@ entfachen, sollten Sie sich folgende Empfehlungen durchlesen:
     gar geschäftskritischen Konflikten führen muss. Der *BOGI* soll
     Gutes bewirken, nicht neuralgische Stellen torpedieren!
 
-```{=html}
-<!-- -->
-```
 -   **Moderator einsetzen**: Es wird empfohlen, bei den *BOGI*-Sitzungen
     einen Moderator einzusetzen, der den sinnvollen Ablauf von Sitzungen
     aufrechterhält (in einem späteren Abschnitt werden noch weitere
@@ -934,23 +930,23 @@ entfachen, sollten Sie sich folgende Empfehlungen durchlesen:
 -   ***BOGI* Missionsziele setzen**: Es wird empfohlen, grundlegende
     Absichten und Missionsziele für Ihren *BOGI* zu definieren. Jeder
     sollte die Intention verstehen. Sie sollten vermitteln, welche Ziele
-    Sie als Sponsor oder Initiator des *BOGI* (\~ *BOGI* *SPONSOR*,
-    siehe Rollen) verfolgen möchten. Was erhoffen Sie sich? Worin drückt
-    sich der Erfolg der Initiative aus? Welche Effekte glauben Sie
-    erzielen zu können? Die Methode kann auch für verschiedene
-    Zielsetzungen eingeführt werden, etwa wenn unterschiedliche
-    Arbeitsgruppen zusammenarbeiten. Der *BOGI* funktioniert auch dann,
-    indem die Absichten separat artikuliert für Arbeitsgruppen
-    aufgesplittet werden. Beispielsweise etabliert eine Gruppe den
-    *BOGI* für die Erarbeitung und Ideen für die Verbesserung des
-    Arbeitsalltags und eine andere arbeitet an Produktideen. Beide
-    Gruppen würden abweichende Best-Practices entwickeln, dennoch
-    gleichermaßen verstehen, wie die Grundmechanik funktioniert. Das
-    alles geht, weil der *BOGI* offen gestaltet ist und für Teilziele
-    ebenso angewendet werden kann, wie für übergeordnete Ziele. Die
-    Definition dieser Ziele für alle Teilnehmer ist aber in jedem Fall
-    notwendig, da so ein Bezugsrahmen geschaffen wird. Denn so können
-    gute von schlechten Ideen unterschieden werden.
+    Sie als Sponsor oder Initiator des *BOGI* (~ *BOGI* *SPONSOR*, siehe
+    Rollen) verfolgen möchten. Was erhoffen Sie sich? Worin drückt sich
+    der Erfolg der Initiative aus? Welche Effekte glauben Sie erzielen
+    zu können? Die Methode kann auch für verschiedene Zielsetzungen
+    eingeführt werden, etwa wenn unterschiedliche Arbeitsgruppen
+    zusammenarbeiten. Der *BOGI* funktioniert auch dann, indem die
+    Absichten separat artikuliert für Arbeitsgruppen aufgesplittet
+    werden. Beispielsweise etabliert eine Gruppe den *BOGI* für die
+    Erarbeitung und Ideen für die Verbesserung des Arbeitsalltags und
+    eine andere arbeitet an Produktideen. Beide Gruppen würden
+    abweichende Best-Practices entwickeln, dennoch gleichermaßen
+    verstehen, wie die Grundmechanik funktioniert. Das alles geht, weil
+    der *BOGI* offen gestaltet ist und für Teilziele ebenso angewendet
+    werden kann, wie für übergeordnete Ziele. Die Definition dieser
+    Ziele für alle Teilnehmer ist aber in jedem Fall notwendig, da so
+    ein Bezugsrahmen geschaffen wird. Denn so können gute von schlechten
+    Ideen unterschieden werden.
 
 -   **Offen gegenüber allen Ideen sein**: Eine essenzielle Voraussetzung
     für die erfolgreiche Arbeit mit dem Framework ist die bedingungslose
@@ -958,8 +954,8 @@ entfachen, sollten Sie sich folgende Empfehlungen durchlesen:
     werden sich von 100 Ideen vielleicht nur zwei Ideen
     herauskristallisieren, die hervorstechen und eventuell nur eine, die
     als Prototyp überzeugt. Aber Ideen muss man anders bewerten. Wenn es
-    100 Ideen kostet, um die eine großartige Idee zu identifizieren --
-    so what!? Seien Sie geduldig und ebenso aufgeschlossen gegenüber
+    100 Ideen kostet, um die eine großartige Idee zu identifizieren – so
+    what!? Seien Sie geduldig und ebenso aufgeschlossen gegenüber
     zunächst abwegig anmutenden Gedanken. Tolerieren Sie Ideen, die
     eventuell im Widerspruch zu dem aktuellen Common Sense stehen. Denn
     Sie wissen letztlich nie, wie sich Ideen auswirken werden. Seien Sie
@@ -973,7 +969,7 @@ entfachen, sollten Sie sich folgende Empfehlungen durchlesen:
     Durch Ablehnung werden Menschen gehemmt und teilen ihre Sichtweisen
     nicht mehr mit. Wenn Sie nicht offen für gute und auf den ersten
     Blick schlechte Einfälle sind, dann sollten Sie nicht ernsthaft über
-    Innovation nachdenken. Ein schlechtes „Ideenklima" führt in der
+    Innovation nachdenken. Ein schlechtes „Ideenklima“ führt in der
     Regel zu der Verstärkung der lautesten oder der prominentesten
     Meinungen. Es kann den Effekt haben, dass Menschen immer wieder die
     gleiche Idee wiederholen, unabhängig von ihrer Qualität. Prüfen Sie
@@ -1005,23 +1001,23 @@ entfachen, sollten Sie sich folgende Empfehlungen durchlesen:
 Die *BOGI* MECHANICS beschreiben den Ablauf des Ansatzes als Blaupause.
 Zur Erinnerung, folgende Punkte sind wichtige Elemente des Vorgehens:
 
-1)  **Partizipation**: Jeder kann Ideen und Perspektiven einbringen
+1.  **Partizipation**: Jeder kann Ideen und Perspektiven einbringen
 
-2)  **Sammlung**: Regelmäßige Aufnahme überzeugender Ideen
+2.  **Sammlung**: Regelmäßige Aufnahme überzeugender Ideen
 
-3)  **Screening**: Qualifizierung der Kandidaten durch das Team
+3.  **Screening**: Qualifizierung der Kandidaten durch das Team
 
-4)  ***Funnel*-Logik**: Ideen (\~ Innovationskandidaten) treten
+4.  ***Funnel*-Logik**: Ideen (~ Innovationskandidaten) treten
     gegeneinander in Etappen an und durchlaufen einen
-    „Innovationstrichter"
+    „Innovationstrichter“
 
-5)  **Selektion**: Auswahl von Kandidaten durch Teams / Individuen
+5.  **Selektion**: Auswahl von Kandidaten durch Teams / Individuen
 
-6)  **Schnelle Umsetzung**: Prototypenrealisierung im HACKATHON
+6.  **Schnelle Umsetzung**: Prototypenrealisierung im HACKATHON
 
-7)  **Pitch**: Präsentation und Kommunikation von Ergebnissen
+7.  **Pitch**: Präsentation und Kommunikation von Ergebnissen
 
-8)  **Nachhaltige Dokumentation**: Fließende Dokumentation und
+8.  **Nachhaltige Dokumentation**: Fließende Dokumentation und
     Aufarbeitung der Erkenntnisse für frühe Tests bei Stakeholdern,
     Kunden oder Experten
 
@@ -1036,8 +1032,7 @@ beobachten wie Ihr Team mit den Vorschlägen umgeht.
 
 ## *BOGI* Rollen
 
-![](media/image1.png){width="5.82921697287839in"
-height="3.6138615485564305in"}
+<img src="media/image1.png" style="width:5.82922in;height:3.61386in" />
 
 Mögliche BOGI Persona / Rollen
 
@@ -1096,13 +1091,11 @@ Als Ansprechpartner kann der Moderator auch zwischen den verschiedenen
 Teamveranstaltungen koordinative Aufgaben übernehmen oder
 organisatorische Fragen klären.
 
-*\
-*
 
 ### *BOGI* INCEPTORS
 
 Jede einzelne Idee wird von Einzelpersonen eingebracht. Die Person, die
-eine Idee einbringt, wird automatisch zu ihrem Initiator -- dem *BOGI*
+eine Idee einbringt, wird automatisch zu ihrem Initiator – dem *BOGI*
 *INCEPTOR*.
 
 Es gibt einige Aspekte, die damit verbunden sind. Ideen brauchen Pflege.
@@ -1110,10 +1103,10 @@ Es macht Sinn, dass sich die Menschen für ihre Ideen weiterhin
 verantwortlich fühlen. Sie sollten Lobbyist der eigenen Idee sein, aber
 auch bereit sein, die Idee weiter zu pflegen, z.B., wenn neue
 Informationen oder Meinungen hinzukommen. Dies gilt meist in der ersten
-Zeit, wenn eine Idee gerade geteilt wurde. Später \"wachsen\" Ideen (vor
+Zeit, wenn eine Idee gerade geteilt wurde. Später "wachsen" Ideen (vor
 allem solche, die den *BOGI* länger überleben), werden zum Objekt der
 Gruppe, mutieren vielleicht auf unvorhergesehene Art und Weise und
-finden neue Advokaten. So ist es mit Gedanken, die man ausspricht -- sie
+finden neue Advokaten. So ist es mit Gedanken, die man ausspricht – sie
 gehören einem nicht mehr allein. In der frühen Phase der Ideenfindung
 sollte sich jedoch der *BOGI* INCEPTOR als Anwalt seiner Idee verstehen
 und im *BOGI Board* sollte optimalerweise dokumentiert werden, wer der
@@ -1139,21 +1132,17 @@ profitieren. Damit dies gelingen kann, sollte ein *BOGI* GUIDE
 auserkoren werden, der die Moderation der Veranstaltung übernimmt und
 somit auch kommunikativ durch den Tag (inklusive der Agenda) geleitet.
 
-![](media/image2.png){width="4.136675415573054in"
-height="5.830012029746282in"}
+<img src="media/image2.png" style="width:4.13668in;height:5.83001in" />
 
 Typische Rollen und Funktionen
 
-*\
-*
 
 ## DAS *BOGI* BOARD
 
 Als Analogie folgt die Logik des *BOGI* Boards der eines Innovation
 Funnels / Innovationstrichters.
 
-![](media/image3.png){width="5.830012029746282in"
-height="4.136675415573054in"}
+<img src="media/image3.png" style="width:5.83001in;height:4.13668in" />
 
 Visualisierung Ihres Funnels im Board
 
@@ -1162,7 +1151,7 @@ neuen sowie bereits existierenden Ideen. Durch das Board generieren Sie
 implizit eine fließende Dokumentation ihrer Ideation- /
 Innovationsvorgänge.
 
-Für das Board eignet sich entweder ein großes Poster mit Post-It®\'s der
+Für das Board eignet sich entweder ein großes Poster mit Post-It®'s der
 Ideen oder eine digitale Umsetzung, z.B. basierend auf einem
 Trello-Board. Für die Dokumentation ist der Übertrag dessen, was in der
 Session auf Papier bewegt und hinzugefügt wurde, in jedem Falle zu
@@ -1172,7 +1161,7 @@ Vorzüge, trotz der Liebe vieler Unternehmen zu den kleinen, bunten
 Zetteln auf riesigen DIN-A0 Untergründen.
 
 Das Poster bzw. das Board soll die Etappen Ihres Ideen*battles* im
-*BOGI* entlang eines Trichters (\~ *Innovation Funnel*) veranschaulichen
+*BOGI* entlang eines Trichters (~ *Innovation Funnel*) veranschaulichen
 und ist daher in Spalten (von links nach rechts) untergliedert. Links
 ist der Eingang **Stage-1 für alle neu aufgenommenen Ideen**. Rechts
 daneben folgen die **weiteren Spalten für die Qualifikation und
@@ -1182,12 +1171,11 @@ denen die essenziellen Schritte **Eingang, Qualifikation** und
 ist. Manche Teams nutzen aber auch gerne mehr Spalten für diffizilere
 Schritte, spätere Follow-Up Phasen oder Archive.
 
-![](media/image4.png){width="5.830012029746282in"
-height="4.136675415573054in"}
+<img src="media/image4.png" style="width:5.83001in;height:4.13668in" />
 
 Schema eines minimalen *BOGI* Boards (Stage-1 bis 3)
 
-Die linke Spalte **Stage-1** ist der Eingangsbereich (\~ *Funnel Entry*)
+Die linke Spalte **Stage-1** ist der Eingangsbereich (~ *Funnel Entry*)
 für vorgestellte und durch die Gruppe angenommene Ideen. Die dort
 dokumentierten **Kandidaten** haben nach der ersten Präsentation
 mindestens 50% der Stimmen erhalten.
@@ -1239,8 +1227,6 @@ eines Prototyps oder Hochglanzprospekts. Wie Sie Folgeschritte gestalten
 oder ob Sie diese ebenfalls im Board aufnehmen, bleibt an dieser Stelle
 offen für Ihre Gestaltung.
 
-## 
-
 ## Veranstaltungen im *BOGI*
 
 Der *Battle Of Glorious Ideas* ist als kontinuierliches Instrument
@@ -1268,20 +1254,19 @@ durchschnittliche Output, der pro Sitzung erzeugt werden kann, spielen
 hier eine entscheidende Rolle. Beginnen Sie mit einer Standardsequenz
 von 8 *BOGI* SESSIONS und einem anschließenden HACKATHON. Auf dieser
 Grundlage werden Sie erste Erfahrungen machen und können dann
-Feinjustierungen pro Iteration (\~ Sequenzdurchlauf) vornehmen.
-Letztlich muss auch hierbei wieder das nötige Zeitbudget geklärt werden,
-falls Kollisionen bzgl. anderer Prioritäten zu erwarten wären.
+Feinjustierungen pro Iteration (~ Sequenzdurchlauf) vornehmen. Letztlich
+muss auch hierbei wieder das nötige Zeitbudget geklärt werden, falls
+Kollisionen bzgl. anderer Prioritäten zu erwarten wären.
 
-![](media/image5.png){width="5.830012029746282in"
-height="4.136675415573054in"}
+<img src="media/image5.png" style="width:5.83001in;height:4.13668in" />
 
-### *BOGI* SESSION (\~ the weekly arena)
+### *BOGI* SESSION (~ the weekly arena)
 
 In einer *BOGI* SESSION können regelmäßig, vorgeschlagen ist hier auf
 wöchentlicher Basis, Ideen in der Arbeitsgruppe vorgestellt, kurz
 diskutiert, abgewogen und schließlich aufgenommen werden.
 
-Diese regelmäßige „Arena" bildet also den Ort, an dem neue Ideen dem
+Diese regelmäßige „Arena“ bildet also den Ort, an dem neue Ideen dem
 *BOGI* hinzugefügt, abgelehnt oder für weitere Schritte ausgewählt
 werden. Die *BOGI* SESSION ist eine Art kontinuierliches Forum, durch
 welches der Alltagstakt für die Ideenfindung und Selektion gestaltet
@@ -1290,8 +1275,7 @@ wird.
 Eine einzelne *BOGI* SESSION dauert **60-90 Minuten** (so der
 Vorschlag).
 
-![](media/image6.png){width="6.409448818897638in"
-height="4.547244094488189in"}
+<img src="media/image6.png" style="width:6.40945in;height:4.54724in" />
 
 Der grobe **Ablauf einer Sitzung** besteht aus zwei Teilen:
 
@@ -1300,8 +1284,8 @@ Der grobe **Ablauf einer Sitzung** besteht aus zwei Teilen:
     die dann ein Kandidat für den *Battle Of Glorious Ideas* werden
     könnten.
 
--   **Teil 2** **-- QUALIFICATION PHASE:** grob 1/3 der Zeit (z.B. 20
-    von 60 / 30 von 90 Minuten) wird für die **Auswahl der zwei besten
+-   **Teil 2** **– QUALIFICATION PHASE:** grob 1/3 der Zeit (z.B. 20 von
+    60 / 30 von 90 Minuten) wird für die **Auswahl der zwei besten
     Kandidaten** für die nächsten Etappen vorgesehen.
 
 Als **Besetzung** einer Session benötigen Sie einen ***BOGI* MODERATOR**
@@ -1341,7 +1325,7 @@ stattfinden, ohne dass das typische Voting-Verfahren angewandt wird.
 
 Jede *BOGI* SESSION sollte im Nachgang schlank (z.B. in Form eines
 Logbucheintrags) protokolliert werden, das beispielsweise öffentlich
-über einen Slack Channel „\#BOGI_log" ungesetzt werden kann. Jeder aus
+über einen Slack Channel „\#BOGI\_log“ ungesetzt werden kann. Jeder aus
 der Organisation kann dann selbst entscheiden, ob und wie viel sie / er
 nachverfolgen möchte, was zuletzt im *BOGI* passiert ist. Wenn Sie einen
 Service wie Slack nutzen, dann könnten Sie auch einen Bot für
@@ -1362,7 +1346,7 @@ der erste und zweite Teil einer Sitzung detaillierter beschrieben.
 #### Ein BOGI Kandidat / eine Idee
 
 Jede vorgestellte Idee ist ein Kandidat für die Qualifikation im *BOGI.*
-Derjenige, der eine Idee beisteuern möchte (\~ der *BOGI* *INCEPTOR*),
+Derjenige, der eine Idee beisteuern möchte (~ der *BOGI* *INCEPTOR*),
 sollte diese möglichst pointiert und aussagekräftig vor dem Team
 präsentieren. Denn für den Vortrag einer Idee sind lediglich maximal 10
 Minuten vorgesehen. Die anderen Teilnehmer, die bei der *BOGI* SESSION
@@ -1385,7 +1369,7 @@ Einschränkungen (Beamer, Anschlüsse etc.) sollte man dabei natürlich
 beachten oder im Vorfeld klären. Wichtiger ist es, dass bei der
 Präsentation einer neuen Idee zwei grundlegende Aspekte erklärt werden:
 
-... das **WAS** und das **WARUM** hinter einer Idee.
+… das **WAS** und das **WARUM** hinter einer Idee.
 
 **Was ist es, was man vorstellt und warum ist es wertvoll?**
 
@@ -1460,8 +1444,7 @@ komprimierter die Besprechung einer Idee gelingt, desto mehr Ideen
 können pro Sitzung betrachtet werden. Diese Balance muss die Gruppe
 selbst verinnerlichen - dann läuft es in der Regel ganz gut.
 
-![](media/image7.png){width="5.830012029746282in"
-height="4.136675415573054in"}
+<img src="media/image7.png" style="width:5.83001in;height:4.13668in" />
 
 Ideen bewerten und aufnehmen
 
@@ -1477,8 +1460,8 @@ vorzutragen. Sich ständig vordrängelnde Personen muss man im Zweifel
 etwas ignorieren, damit andere zum Zug kommen können. Seien Sie sicher:
 Nicht die lautesten Personen haben die besten Ideen! Fragen Sie ruhig im
 Vorfeld eventuell bei den introvertierten Personen nach, ob nicht
-vielleicht eine „Weltidee" in der Schublade liegt, die man doch noch
-teilen möchte. Sie werden sich wundern ...
+vielleicht eine „Weltidee“ in der Schublade liegt, die man doch noch
+teilen möchte. Sie werden sich wundern …
 
 Das Team stimmt nach jedem Ideen-Vortrag unmittelbar über die **Aufnahme
 in das *BOGI* BOARD (Stage-1)** ab. Als effizientes Mittel hat sich die
@@ -1525,12 +1508,7 @@ Ein Moderator könnte während der laufenden Sitzung etwa eine ***BOGI*
 Battlecard (Moderator)** für die schnelle Protokollierung von Ideen
 verwenden, z.B. in der Form:
 
-![Ein Bild, das Screenshot enthält. Automatisch generierte
-Beschreibung](media/image8.png){width="2.6666666666666665in"
-height="3.7582589676290463in"}![Ein Bild, das Screenshot enthält.
-Automatisch generierte
-Beschreibung](media/image9.png){width="2.6666666666666665in"
-height="3.7582589676290463in"}
+<img src="media/image8.png" style="width:2.66667in;height:3.75826in" alt="Ein Bild, das Screenshot enthält. Automatisch generierte Beschreibung" /><img src="media/image9.png" style="width:2.66667in;height:3.75826in" alt="Ein Bild, das Screenshot enthält. Automatisch generierte Beschreibung" />
 
 Die Teammitglieder können ebenso eine ***BOGI* Battlecard (Team)**
 verwenden, um die subjektive Sicht oder Fragen für die Diskussion
@@ -1539,28 +1517,22 @@ geeignete Dimensionen bzw. eine Systematik überlegen, die dann auch für
 die spätere Diskussion hilfreich sein kann.
 
 Im Beispiel (nächste Abbildung) werden neben Notizen zusätzliche
-Dimensionen verwendet: „Komplexität", „Wartung" (\~regelmäßige Aufwände,
+Dimensionen verwendet: „Komplexität“, „Wartung“ (~regelmäßige Aufwände,
 die anhand eines neuen Produktes, Prozesses etc. erwartet werden), „Wert
-(Nutzer)" (wie viel bringt es dem, der das Produkt oder einen Prozess
-verwendet?), „Einfach zu erklären" (nicht alle guten Ideen können
+(Nutzer)“ (wie viel bringt es dem, der das Produkt oder einen Prozess
+verwendet?), „Einfach zu erklären“ (nicht alle guten Ideen können
 schnell vermittelt werden und sind dann in Folge doch weniger wertvoll),
-„![Herz](media/image10.png){width="0.14871062992125983in"
-height="0.14871062992125983in"}-Faktor" (subjektives Gefallen oder
-empfundener WOW!-Faktor), „Machbarkeit" (grobe Schätzung für die
-Realisierung).
+„<img src="media/image10.png" style="width:0.14871in;height:0.14871in" alt="Herz" />-Faktor“
+(subjektives Gefallen oder empfundener WOW!-Faktor), „Machbarkeit“
+(grobe Schätzung für die Realisierung).
 
-![Ein Bild, das Screenshot enthält. Automatisch generierte
-Beschreibung](media/image12.png){width="2.583257874015748in"
-height="3.6407075678040246in"}![Ein Bild, das Screenshot enthält.
-Automatisch generierte
-Beschreibung](media/image13.png){width="2.5826771653543306in"
-height="3.641732283464567in"}
+<img src="media/image12.png" style="width:2.58326in;height:3.64071in" alt="Ein Bild, das Screenshot enthält. Automatisch generierte Beschreibung" /><img src="media/image13.png" style="width:2.58268in;height:3.64173in" alt="Ein Bild, das Screenshot enthält. Automatisch generierte Beschreibung" />
 
 Der Vorteil solcher Karten ist, dass man sich in einer Diskussion
 schneller an die wesentlichen Aspekte erinnern kann, die zu jeder Idee
 notiert wurden. Spannende Ergebnisse können dann ebenso in das *BOGI*
 Board übertragen werden. Bei einem systematischen Vorgehen kann man
-innerhalb des Teams eine eigene „Währung" für die qualitative
+innerhalb des Teams eine eigene „Währung“ für die qualitative
 Betrachtung von Kandidaten entwickeln, z.B. was genau hohe oder geringe
 Komplexität für das Team bedeutet.
 
@@ -1609,8 +1581,7 @@ bedeutet, Sie betrachten die Menge sämtlicher **Stage-1 Kandidaten**.
 
 Welche Kandidaten haben das Zeug zum **Battle Candidate?**
 
-![](media/image14.png){width="5.830012029746282in"
-height="4.136675415573054in"}
+<img src="media/image14.png" style="width:5.83001in;height:4.13668in" />
 
 Zwei neue Battle Candidates Qualifizieren
 
@@ -1628,7 +1599,7 @@ Gewichtung. So wäre es also legitim, 3 Punkte für nur eine Idee zu
 vergeben oder jeweils einen Punkt auf 3 Kandidaten zu verteilen. Es ist
 so also möglich, dass die zur Verfügung stehenden Punkte verwendet
 werden, um eine, zwei oder drei der großartigen Ideen individuell
-hervorzuheben. Enthaltungen (\~ Vergabe von 0 Punkten) kann man
+hervorzuheben. Enthaltungen (~ Vergabe von 0 Punkten) kann man
 prinzipiell auch erlauben, doch machen diese im *BOGI* nicht viel Sinn,
 da es ja um das Selektieren der besten Ideen geht und nicht um
 Enthaltungen.
@@ -1660,16 +1631,16 @@ effektiv genutzt werden kann.
 Für die eigentliche Abstimmung (in der jeder drei Punkte vergibt) gibt
 es verschiedene Möglichkeiten, die mal mehr, mal weniger effizient
 funktionieren. Wenn man das *BOGI* BOARD als Poster verwendet und vor
-sich sieht, dann könnten Post-It®'s, Aufkleber oder Striche auf Zetteln
+sich sieht, dann könnten Post-It®’s, Aufkleber oder Striche auf Zetteln
 stellvertretend für die Vergabe von Punkten herhalten. Nach der Vergabe
 der Punkte würden diese bei jedem Kandidaten zusammengezählt und dann
-schlussendlich die zwei „Sieger nach Punkten" identifiziert. Also
+schlussendlich die zwei „Sieger nach Punkten“ identifiziert. Also
 diejenigen Ideen, für welche die meisten Stimmen zusammengekommen sind.
 Bei digitalen Boards, etwa wenn ein Trello-Board für den *BOGI*
 verwendet wird, muss man sich etwas einfallen lassen, so dass die
 Abstimmung vergleichbar intuitiv funktioniert. Etwa, indem der Moderator
 jeden Kandidaten einzeln hinsichtlich der Punktevergabe durchgeht (was
-eindeutig weniger intuitiv ist und ‚mechanischer' wirkt). Dies hängt von
+eindeutig weniger intuitiv ist und ‚mechanischer‘ wirkt). Dies hängt von
 der Findigkeit im Team ab und davon, welche Medien man als Hilfsmittel
 benutzt.
 
@@ -1714,14 +1685,14 @@ wechselnden Teilnehmerkreisen wird es dafür umso wichtiger.
 Das Wichtigste zum Schluss: Eine *BOGI* SESSION soll **Spaß** machen! In
 zwanghafter oder gar langweiliger Atmosphäre gedeiht selten Glorreiches.
 Eine strikte Prozesstreue ist nicht immer geeignet, um im Team an und
-mit Ideen zu arbeiten. Freude und Neugier sind gute Sparringspartner --
+mit Ideen zu arbeiten. Freude und Neugier sind gute Sparringspartner –
 auch im *BOGI*. Und im besonderen Maße gilt dies vielleicht für den
-*BOGI* HACKATHON -- dieser wird nun beleuchtet.
+*BOGI* HACKATHON – dieser wird nun beleuchtet.
 
 ### *BOGI* HACKATHON
 
 Der **HACKATHON** ist die Veranstaltung, bei der es um die prototypische
-**Umsetzung oder Bearbeitung Ihrer Ideen** bzw. „um die Wurst" geht. Es
+**Umsetzung oder Bearbeitung Ihrer Ideen** bzw. „um die Wurst“ geht. Es
 werden, wie es sich für den *BOGI* gehört, nur die erlesensten Ideen in
 dieses Schlachtfeld geführt. Das Ziel des HACKATHONs ist es, die
 praktische Seite der Battle Candidates auf Herz und Nieren zu
@@ -1730,9 +1701,7 @@ weitere Beurteilung einer Idee (bei Stakeholdern, Kunden etc.) erstellt
 wird. Der HACKATHON ist der Höhepunkt jeder *BOGI* Sequenz und findet
 damit seltener als andere Events statt, z.B. jeden zweiten Monat.
 
-![Ein Bild, das Text, Karte enthält. Automatisch generierte
-Beschreibung](media/image15.png){width="5.830012029746282in"
-height="4.136675415573054in"}
+<img src="media/image15.png" style="width:5.83001in;height:4.13668in" alt="Ein Bild, das Text, Karte enthält. Automatisch generierte Beschreibung" />
 
 Grober Fahrplan für einen Hackathon
 
@@ -1760,9 +1729,6 @@ Grober Fahrplan für einen Hackathon
 > Der HACKATHON erfordert im Vorfeld ein gewisses Maß an Logistik, wenn
 > er jedoch ein paar Mal durchgeführt wurde, geht die Vorbereitung des
 > Events immer leichter und effizienter von der Hand.
-
-1.  
-
 > Bestimmen Sie früh genug Moderatoren und helfende Hände (*BOGI*
 > GUIDEs) und bereiten Sie den Tag vor.
 
@@ -1777,7 +1743,7 @@ Grober Fahrplan für einen Hackathon
     > jeweils 5 Personen pro Gruppe). Achten Sie hierbei auch auf die
     > Gesamtzahl aller Teilnehmenden und legen Sie daraufhin die
     > Gruppengrößen fest. Zu viele Gruppen erschweren die Organisation,
-    > die Balance macht's also. Stellen Sie die Teilnehmer der Gruppe
+    > die Balance macht’s also. Stellen Sie die Teilnehmer der Gruppe
     > zufällig zusammen, so dass immer wieder neue Konstellationen neue
     > Aufgaben lösen müssen bzw. nicht immer wieder die gleichen
     > Sitznachbarn eine Gruppe bilden. Jede Gruppe sollte sich dann kurz
@@ -1792,11 +1758,11 @@ Grober Fahrplan für einen Hackathon
     > Minuten lang die Kandidatenauswahl diskutieren. Um Kollisionen mit
     > der Auswahl anderer Gruppen zu vermeiden, sollten bestenfalls drei
     > Kandidaten (A, B, C) je Gruppe ausgesucht werden. A = Das ist das,
-    > was die Gruppe möchte ... B = Der Fallback, wenn A nicht mehr
-    > möglich ist ... C = Der Fallback, wenn A und B nicht mehr möglich
+    > was die Gruppe möchte … B = Der Fallback, wenn A nicht mehr
+    > möglich ist … C = Der Fallback, wenn A und B nicht mehr möglich
     > sind. Was ist zu beachten?
 
-    -   Es ist nur erlaubt, [einen]{.ul} der bestehenden *Battle
+    -   Es ist nur erlaubt, <u>einen</u> der bestehenden *Battle
         Candidates* im HACKATHON zu bearbeiten.
 
     -   Jedes Team des HACKATHONs wählt nach eigenem Ermessen. Denn die
@@ -1837,7 +1803,7 @@ Grober Fahrplan für einen Hackathon
     bedacht werden.
 
 8.  **PRÄSENTATION**: Schließlich findet die gebührende Präsentation der
-    Ergebnisse vor dem geladenen Publikum statt. [Jedes]{.ul} Ergebnis
+    Ergebnisse vor dem geladenen Publikum statt. <u>Jedes</u> Ergebnis
     ist hier wichtig, jede Lösung gilt, insbesondere auch gescheiterte
     Umsetzungen! Von den Teamerfahrungen kann man viel über die Ideen
     lernen, insofern gibt es kein Scheitern, sondern lediglich
@@ -1904,7 +1870,7 @@ Punkte beachten, damit die Durchführung optimal funktionieren kann.
     kontinuierlichen Arbeitsflusses) gut eignet. Andere Möglichkeiten
     sollen jedoch nicht ausgeschlossen werden.
 
--   **Diskutieren Sie, was „Prototyp" in Ihrem Falle bedeutet:** Im Zuge
+-   **Diskutieren Sie, was „Prototyp“ in Ihrem Falle bedeutet:** Im Zuge
     des HACKATHON wird eine Idee als Prototyp umgesetzt. Doch die Art
     der Idee schränkt Umsetzungsmöglichkeiten stark ein. Wenn die Idee
     eine neue Rakete ist, dann werden Sie diese nicht in wenigen Stunden
@@ -1930,7 +1896,7 @@ Punkte beachten, damit die Durchführung optimal funktionieren kann.
     Format Ihres HACKATHON sinnvoll feinjustiert werden.
 
 -   **Ein HACKATHON muss nicht in der Black-Box stattfinden:** Der
-    HACKATHON erzeugt „Assets" für Ihre weiteren Tests oder den
+    HACKATHON erzeugt „Assets“ für Ihre weiteren Tests oder den
     allgemeinen Erkenntnisgewinn. Es ist also im Einzelfall absolut
     valide, Personen außerhalb Ihrer Organisation für solche Events
     einzuladen. Vielleicht sogar als Teilnehmer (oder vielleicht ja
@@ -1939,7 +1905,7 @@ Punkte beachten, damit die Durchführung optimal funktionieren kann.
     sondern vielmehr als Labor und Handelsplattform von Ideen. Die
     Arbeit an Ideen vertieft sich praktisch erstmals im HACKATHON. Das
     beinhaltet Potential für viele Interaktionen, die nicht allein nur
-    mit der „internen Bestandsgruppe" Sinn machen müssen. Andere
+    mit der „internen Bestandsgruppe“ Sinn machen müssen. Andere
     Personen mit anderen Hintergründen (Partner, Kunden, Kontakte aus
     dem erweiterten Netzwerk) können hier essentiellen Input liefern und
     kommen gleichzeitig mit Ihrer Hypothesenwelt in Kontakt. Das kann
@@ -1991,7 +1957,7 @@ inhaltlichen Diskussion von Kandidaten und dem Review der Stages. Sie
 machen dann beispielsweise die Kandidaten ausfindig, die inzwischen
 wirklich mal bereinigt werden sollten, damit der Innovationstrichter im
 *BOGI* BOARD nicht zur Halde netter Einfälle verkommt oder schlichtweg
-„verstopft". Nötig wird es dann, wenn man mit einer Gruppe zügig viele
+„verstopft“. Nötig wird es dann, wenn man mit einer Gruppe zügig viele
 Ideen sammeln, aber nicht annähernd viele Ideen durch den HACKATHON
 realisieren kann. In diesem Fall sollte man die Messlatte tatsächlich
 höher ansetzen und alte Ideen, die es seit Monaten nicht zum *Battle
@@ -1999,24 +1965,23 @@ Candidate* brachten, einfach löschen. **Wenn Kandidaten Staub ansetzen,
 sind sie einfach nicht gut genug für den *BOGI*!** Sie stören dafür
 ungemein in jeder *BOGI* SESSION, solange sie erhalten bleiben. Denn
 auch angestaubte Kandidaten müssen immer wieder von jedem Teilnehmer neu
-betrachtet werden -- das kostet Nerven und Lebenszeit. Doch vor allem
-der unverstellte Blick hilft bei der Suche nach glorreichen Ideen. Es
-ist zudem unwahrscheinlich, dass Ideen, die sich über Monate hinweg
-nicht weiter qualifizieren konnten, plötzlich einen unerwarteten
-Aufwärtstrend erfahren. Lüften Sie also guten Gewissens ab und an das
-*BOGI* BOARD und seien Sie durchaus ungnädig gegenüber den altbekannten
-Dauer-Kandidaten. Wenn Sie eine Idee archivieren oder löschen, sollten
-Sie dann aber unter Umständen den Initiator der entsprechenden Idee
-informieren, um nett auf deren Löschung hinzuweisen. Wenn das die
-gängige Praxis ist, wird sich hoffentlich niemand persönlich angegriffen
-fühlen.
+betrachtet werden – das kostet Nerven und Lebenszeit. Doch vor allem der
+unverstellte Blick hilft bei der Suche nach glorreichen Ideen. Es ist
+zudem unwahrscheinlich, dass Ideen, die sich über Monate hinweg nicht
+weiter qualifizieren konnten, plötzlich einen unerwarteten Aufwärtstrend
+erfahren. Lüften Sie also guten Gewissens ab und an das *BOGI* BOARD und
+seien Sie durchaus ungnädig gegenüber den altbekannten Dauer-Kandidaten.
+Wenn Sie eine Idee archivieren oder löschen, sollten Sie dann aber unter
+Umständen den Initiator der entsprechenden Idee informieren, um nett auf
+deren Löschung hinzuweisen. Wenn das die gängige Praxis ist, wird sich
+hoffentlich niemand persönlich angegriffen fühlen.
 
 Tipp: Wenn Sie ein Board z.B. mit Trello pflegen, dann könnten Sie über
 eine geeignete Erweiterung das Alter der Kandidaten visualisieren. Diese
 optische Hilfestellung erleichtert die Pflege ungemein.
 
 Schauen Sie Ihr *BOGI* BOARD hin und wieder auch auf Basis einer
-**„Funnel-Logik"** an. Reflektieren Sie dabei die Verhältnismäßigkeiten
+**„Funnel-Logik“** an. Reflektieren Sie dabei die Verhältnismäßigkeiten
 der Stages (hinsichtlich der Kandidatenmengen je Stage) zueinander.
 Beispiel: Wenn mehr als 99 Ideen in Ihrer Eingangsstufe (Stage-1)
 liegen, aber nur 5 *Battle Candidates* (in Stage-2), dann ist Ihr
@@ -2039,12 +2004,12 @@ Nachjustierung der Kriterien oder Häufigkeiten von bestimmten Aktionen.
 
 Jeder weiß vermutlich intuitiv, wie eine solide gefüllte Pipeline in
 einer Trichteranalogie (in diesem Falle Ihr *BOGI* Innovation-Funnel)
-aussieht -- am Eingang (Stage-1) sollten viele Kandidaten existieren und
+aussieht – am Eingang (Stage-1) sollten viele Kandidaten existieren und
 am Ausgang (Stage-3) realistisch wenige, dafür aber sehr gute. In der
 Mitte des Funnels (also Stage-2) kann in Hinblick auf die Mechanik von
 Zu- und Abgängen ebenso nachjustiert werden, sollten die Verhältnisse
 gar nicht sinnvoll zueinander passen. Wichtig ist aber, dass die
-Wahrscheinlichkeit steigt, dass es sich in der „Mitte" im bessere Ideen
+Wahrscheinlichkeit steigt, dass es sich in der „Mitte“ im bessere Ideen
 handelt.
 
 Man muss in diesem Kontext zusätzlich anmerken, um falsche Deutungen
@@ -2052,7 +2017,7 @@ bezüglich der Trichterlogik zu vermeiden: Die Anzahl der Kandidaten je
 Stage kann ein verzerrtes Bild erzeugen und spiegelt einen optimalen
 Funnel nicht immer sauber wider. Denn die Mechanik pro Stage ist
 abweichend. Stage-3 leert sich etwa nicht (durch Verschiebungen),
-wodurch diese Stage als „Hall-of-Fame" alles kumuliert, was jemals dort
+wodurch diese Stage als „Hall-of-Fame“ alles kumuliert, was jemals dort
 ankommt. Die Bereinigung wird ja vor allem für Kandidaten in Stage-1
 oder vielleicht Stage-2 als relevant erachtet, um dort Kandidaten ohne
 Potential auszufiltern. Zudem ergeben sich durch die Qualifikationen
@@ -2073,10 +2038,10 @@ den **Flow im Innovation Funnel optimieren**?
 
 -   **Hacken Sie die Sequenz:** Ähnliche Korrekturen erreichen Sie,
     indem Sie die Anzahl der der *BOGI* SESSIONs vor einem HACKATHON
-    (\~also in einer Sequenz) erhöhen oder verringern. Das Verhältnis
-    von *BOGI* SESSIONS zu HACKATHONs ist dann besonders für die
-    Regulierung geeignet, wenn konstante Teilnehmerzahlen (in allen
-    Veranstaltungen) zu verzeichnen sind.
+    (~also in einer Sequenz) erhöhen oder verringern. Das Verhältnis von
+    *BOGI* SESSIONS zu HACKATHONs ist dann besonders für die Regulierung
+    geeignet, wenn konstante Teilnehmerzahlen (in allen Veranstaltungen)
+    zu verzeichnen sind.
 
 -   **Manipulieren Sie die Zeitachse:** Die Zeit pro Sitzung (also einer
     BOGI SESSION) sowie die Anzahl der jeweils teilnehmenden, aktiven
@@ -2088,7 +2053,7 @@ den **Flow im Innovation Funnel optimieren**?
 -   **Machen Sie passend, was nicht passt:** Ferner können Sie
     grundlegend härtere Kriterien einführen, was die Übergänge der
     Stages betrifft. Sie könnten auch eine ganz neue Stage einführen,
-    z.B. eine, die einen weiteren „Veredelungsschritt" eines Kandidaten
+    z.B. eine, die einen weiteren „Veredelungsschritt“ eines Kandidaten
     nach Stage-2 als Voraussetzung vorsieht, so dass nur ausgewählte
     oder entsprechend aufbereitete Kandidaten für den HACKATHON (aus dem
     Pool der neuen Stage) in Frage kommen.
@@ -2120,7 +2085,7 @@ Fall ist schnell geklärt. Das kommt vor und ist kein Drama! Doch ein
 *BOGI*, der an seinen Zielsetzungen vorbeiläuft, fasert aus und wird
 früher oder später irrelevant. Sinnloses wird für alle Beteiligten zur
 Last - und das ist nicht die Intention! Bleiben Sie also auf Kurs oder
-erstellen Sie eine weitere Parallelveranstaltung für „anderes". Denn
+erstellen Sie eine weitere Parallelveranstaltung für „anderes“. Denn
 gute Ideen sind wertvoll!
 
 Dokumentieren Sie zudem die Voting-Ergebnisse oder Erkenntnisse aus den
@@ -2140,7 +2105,7 @@ Person werden sollten, können Sie jederzeit auch zusätzliche Rollen
 einführen, wenn es um die Organisation oder regelmäßige Koordination
 geht. Wichtig ist, dass es geschieht.
 
-Es ist eine größere Aufgabe, (1) den „Motor" eines Events zum Laufen zu
+Es ist eine größere Aufgabe, (1) den „Motor“ eines Events zum Laufen zu
 bringen und (2) dann das Tempo zu halten. Denn nach dem ersten Hype
 treten schnell (wie bei allem!) die ersten Verlusterscheinungen und
 Trägheitssymptome ein. Das ist normal! Lassen Sie sich nicht davon
@@ -2166,7 +2131,7 @@ besonderen und eventuell neuen Regelungen beruhen. Wenn die Personen in
 hinreichender Anzahl zusammenkommen, kann es losgehen. Der Moderator
 übernimmt ab hier eine *BOGI* Session.
 
-*\
+*  
 *
 
 ## *BOGI* Tweaks 
@@ -2233,7 +2198,7 @@ für die Sie vielleicht ihren *BOGI* *tweaken* oder *hacken* möchten.
     einführen, etwa um besondere Kriterien zu überprüfen oder um harte
     Qualifizierungshürden (Gates) für jedwede Idee vorzusehen. Ein
     *BOGI* BOARD kann jedoch auch für administrative Zwecke
-    (Vorbereitung, Nachbereitung, Archive ...) erweitert werden und so
+    (Vorbereitung, Nachbereitung, Archive …) erweitert werden und so
     letztlich anders aussehen.
 
 -   ***BOGI*-Stage-N:** Die Fortführung des *BOGI* Flow nach dem
@@ -2242,7 +2207,7 @@ für die Sie vielleicht ihren *BOGI* *tweaken* oder *hacken* möchten.
     weiterentwickelt werden. Bedenken Sie in diesen Fällen jeweils, dass
     Phasen kreativer Arbeit und Phasen der Analyse oder gar
     politisch-strategische Einflussnahme jeweils andere Formen der
-    Bewertung sind. Meist ist es empfehlenswert, „klein" anzufangen und
+    Bewertung sind. Meist ist es empfehlenswert, „klein“ anzufangen und
     später die Komplexität dort zu erhöhen, wo es sinnvoll und zwingend
     notwendig erscheint. Man ist also unter Umständen gut beraten, den
     Output des regulären *BOGI* auch einfach erst einmal abzuwarten, um
@@ -2306,8 +2271,8 @@ für die Sie vielleicht ihren *BOGI* *tweaken* oder *hacken* möchten.
 
     -   The **BOGI-OF-BOGIS**: Ein *BOGI* kann für sich selbst als
         abgeschlossenes Format betrachtet werden, welches einen
-        bestimmten „Output" erzeugt. Dieser „Output" kann für einen
-        *BOGI* höherer Ordnung als „Input" betrachtet werden. Auch wenn
+        bestimmten „Output“ erzeugt. Dieser „Output“ kann für einen
+        *BOGI* höherer Ordnung als „Input“ betrachtet werden. Auch wenn
         dies eventuell abstrakt klingen mag, kann es einige
         Anwendungsfälle hierfür geben. Stellen Sie sich etwa drei
         parallele Organisationen vor, die jeweils den *BOGI*
@@ -2329,25 +2294,25 @@ für die Sie vielleicht ihren *BOGI* *tweaken* oder *hacken* möchten.
     gehaltvolle Diskussionsrunden am besten für Ihr Team möglich sein
     können und wie man diese in den *BOGI*-Ablauf effizient integriert.
 
--   **OPEN *BOGI* ...** Wer sagt eigentlich, dass der *BOGI* nur
-    innerhalb Ihres Teams funktioniert? Sie können ein Format wie den
-    *Battle Of Glorious Ideas* hervorragend dafür nutzen, Ideen mit
-    Partnern und Kunden zu erarbeiten. Dafür sollten allerdings auch
-    verschiedene Aspekte angepasst werden. Event-Formate können dafür
-    komprimiert und in der Häufigkeit so modifiziert werden, damit
-    Sequenzen für Partner oder Kunden praktikabel sind. Sie werden
-    feststellen, dass die Form der Auseinandersetzung (auf Basis einer
-    kontinuierlichen Ideenarbeit) mittelfristig weitaus ergiebiger sein
-    wird als einzelne Meetings oder ein Ping-Pong von Anfragen und
-    Antworten via E-Mail. Bringen Sie doch einfach wichtige Meinungen
-    und Akteure in einen gemeinsamen *BOGI*-Flow, der viele Ideen
-    transparent nebeneinanderlegt und wenige grandiose Möglichkeiten
-    offenbart. Der weitere Vorteil ist, dass die Genealogie der Ideen
-    aufseiten aller Beteiligten transparent und nachvollziehbar ist. Es
-    entsteht kein Gefälle bezüglich der Frage, wer mehr oder weniger
-    Einfluss auf die Wahl der Ideen hat und wieso Gewichtungen
-    entstehen. Im Zentrum stehen die Güte der Ideen und eine gemeinsame
-    Erarbeitung. Das trägt Früchte.
+-   **OPEN *BOGI* …** Wer sagt eigentlich, dass der *BOGI* nur innerhalb
+    Ihres Teams funktioniert? Sie können ein Format wie den *Battle Of
+    Glorious Ideas* hervorragend dafür nutzen, Ideen mit Partnern und
+    Kunden zu erarbeiten. Dafür sollten allerdings auch verschiedene
+    Aspekte angepasst werden. Event-Formate können dafür komprimiert und
+    in der Häufigkeit so modifiziert werden, damit Sequenzen für Partner
+    oder Kunden praktikabel sind. Sie werden feststellen, dass die Form
+    der Auseinandersetzung (auf Basis einer kontinuierlichen
+    Ideenarbeit) mittelfristig weitaus ergiebiger sein wird als einzelne
+    Meetings oder ein Ping-Pong von Anfragen und Antworten via E-Mail.
+    Bringen Sie doch einfach wichtige Meinungen und Akteure in einen
+    gemeinsamen *BOGI*-Flow, der viele Ideen transparent
+    nebeneinanderlegt und wenige grandiose Möglichkeiten offenbart. Der
+    weitere Vorteil ist, dass die Genealogie der Ideen aufseiten aller
+    Beteiligten transparent und nachvollziehbar ist. Es entsteht kein
+    Gefälle bezüglich der Frage, wer mehr oder weniger Einfluss auf die
+    Wahl der Ideen hat und wieso Gewichtungen entstehen. Im Zentrum
+    stehen die Güte der Ideen und eine gemeinsame Erarbeitung. Das trägt
+    Früchte.
 
 -   **HYBRID-BOGI:** Kombinieren Sie den *BOGI* nach Belieben mit
     anderen Methoden oder Frameworks. Sie könnten Ideen, die auf der
@@ -2383,6 +2348,6 @@ Zusatzmaterialien / Tools werden stetig weiterentwickelt. Die hier
 beschriebene Variante des BOGI bildet die Grundbeschreibung ab. Wenn Sie
 Erfahrungen mit dem BOGI gemacht haben und diese teilen oder Ideen für
 die Weiterentwicklung beisteuern möchten, dann schreiben Sie bitte an
-<innovate@bogi.work> -- vielen Dank im Voraus!
+<innovate@bogi.work> – vielen Dank im Voraus!
 
 In diesem Sinne: **LET THE BATTLES BEGIN!**
