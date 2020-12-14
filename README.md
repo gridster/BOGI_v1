@@ -1,6 +1,12 @@
 # BOGI
 Intro to the battle of glorious ideas.
 
+# BOGI v1
+
+The latest version of the BOGI is v1, it is available in German, see [](./de/BOGI_Introduction_v1_GER.md)
+
+It is published under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).  
+
 ## What is the BOGI?
 
 B.O.G.I. means _battle of glorious ideas_. The purpose of the _BOGI_ is to provide a minimal framework for ideation and idea selection.
