@@ -3,7 +3,7 @@ Intro to the battle of glorious ideas.
 
 # BOGI v1
 
-The latest version of the BOGI is v1, it is available in German, see [](./de/BOGI_Introduction_v1_GER.md)
+The latest version of the BOGI is v1, it is available in German, see [BOGI Introduction V1 (GER)](./de/BOGI_Introduction_v1_GER.md)
 
 It is published under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).  
 
