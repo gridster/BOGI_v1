@@ -1,6 +1,8 @@
-# BOGI
+# The Battle Of Glorious Ideas
 
 Intro to the _Battle Of Glorious Ideas_.
+
+<img src="./de/media_v1/media/image1.png" style="margin:0 auto;"/>
 
 # BOGI v1
 
