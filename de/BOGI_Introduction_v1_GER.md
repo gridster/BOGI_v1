@@ -1,5 +1,7 @@
 # THE BOGI
 
+Hinweis: Dieser Text wird auch als [PDF](./pdf/BOGI_v1_GER.pdf) (~3.5 Mb) angeboten.
+
 ## Einführung in den Battle Of Glorious Ideas (v.1)
 
 <img src="./media_v1/media/image1.png" />
@@ -1784,19 +1786,19 @@ damit seltener als andere Events statt, z.B. jeden zweiten Monat.
     -   Gibt es eine Videoübertragung der Präsentation für die Personen,
         die nicht vor Ort sind?
 
-> Der HACKATHON erfordert im Vorfeld ein gewisses Maß an Logistik, wenn
-> er jedoch ein paar Mal durchgeführt wurde, geht die Vorbereitung des
-> Events immer leichter und effizienter von der Hand.
-> Bestimmen Sie früh genug helfende Hände (*BOGI* GUIDEs) und bereiten
-> Sie den Tag vor.
+    > Der HACKATHON erfordert im Vorfeld ein gewisses Maß an Logistik, wenn
+    > er jedoch ein paar Mal durchgeführt wurde, geht die Vorbereitung des
+    > Events immer leichter und effizienter von der Hand.
+    > Bestimmen Sie früh genug helfende Hände (*BOGI* GUIDEs) und bereiten
+    > Sie den Tag vor.
 
-1.  **START**: Eröffnen Sie die Veranstaltung mit den teilnehmenden
+2.  **START**: Eröffnen Sie die Veranstaltung mit den teilnehmenden
     > Personen. Hier sind noch nicht die späteren Zuschauer anwesend,
     > sondern jeder, der Lust an der Umsetzung der Ideen hat. Diesem
     > Personenkreis sollten Sie nun eine informative und motivierende
     > Eröffnung bieten: LET THE HACKATHON BEGIN!
 
-2.  **GRUPPENBILDUNG und -IDENTITÄT**: Bilden Sie in einem ersten
+3.  **GRUPPENBILDUNG und -IDENTITÄT**: Bilden Sie in einem ersten
     > organisatorischen Schritt Gruppen angemessener Größe (z.B. mit
     > jeweils 5 Personen pro Gruppe). Achten Sie hierbei auch auf die
     > Gesamtzahl aller Teilnehmenden und legen Sie daraufhin die
@@ -1808,7 +1810,7 @@ damit seltener als andere Events statt, z.B. jeden zweiten Monat.
     > finden und einen epischen Gruppennamen wählen, mit dem sie im
     > HACKATHON antritt.
 
-3.  **FESTLEGUNG VON PRÄFERENZEN**: Jede Gruppe diskutiert nun anhand
+4.  **FESTLEGUNG VON PRÄFERENZEN**: Jede Gruppe diskutiert nun anhand
     > des *BOGI* Boards Präferenzen bzgl. der wählbaren ***Battle
     > Candidates***. D.h. alle Ideen aus Stage-2 können hier theoretisch
     > ausgewählt werden. Dies dient der ersten Orientierung und
@@ -1830,7 +1832,7 @@ damit seltener als andere Events statt, z.B. jeden zweiten Monat.
         Fähigkeiten, Vorlieben und Erfahrungen). Diese einzigartige
         Konstellation ist die besondere Hürde für den Battle Candidate.
 
-4.  **KANDIDATEN**-**WAHL**: Bestimmen Sie nun, welche Gruppe zuerst den
+5.  **KANDIDATEN**-**WAHL**: Bestimmen Sie nun, welche Gruppe zuerst den
     Kandidaten wählen darf, z.B. im Losverfahren oder durch den
     Moderator. Jede Gruppe wählt nun (auf Grundlage der zuvor
     festgelegten Präferenzen A - C) ihren Kandidaten für die Umsetzung.
@@ -1838,7 +1840,7 @@ damit seltener als andere Events statt, z.B. jeden zweiten Monat.
     müssen vielleicht auf Präferenz B oder C ausweichen, wenn ihnen
     andere Gruppen zuvor gekommen sind.
 
-5.  **BRIEFING**: Klären Sie den Zeitplan erneut, was die Umsetzung und
+6.  **BRIEFING**: Klären Sie den Zeitplan erneut, was die Umsetzung und
     Deadlines betrifft. Klären Sie, wann die Umsetzungsphase abgelaufen
     ist, wann die Präsentation der Ergebnisse beginnt und dass jede
     Gruppe etwas Vorbereitung für die Vorstellung einplanen sollte.
@@ -1851,7 +1853,7 @@ damit seltener als andere Events statt, z.B. jeden zweiten Monat.
     sorgen und gerade zu Beginn und gegen Ende der Bearbeitungszeit
     aktiv das Geschehen beobachten.
 
-6.  **REALISIERUNG**: Die Gruppen beginnen anschließend mit der
+7.  **REALISIERUNG**: Die Gruppen beginnen anschließend mit der
     Realisierung ihres Kandidaten. Hierfür muss vermutlich zu Beginn
     eine Lösungsstrategie erarbeitet werden; es tauchen eventuell die
     ersten kritischen Fragen auf. Die *BOGI* GUIDEs sollten gerade in
@@ -1860,7 +1862,7 @@ damit seltener als andere Events statt, z.B. jeden zweiten Monat.
     ihre Vorstellung vorbereitet. In der Teamdiskussion sollte das
     bedacht werden.
 
-7.  **PRÄSENTATION**: Schließlich findet die gebührende Präsentation der
+8.  **PRÄSENTATION**: Schließlich findet die gebührende Präsentation der
     Ergebnisse vor dem geladenen Publikum statt. <u>Jedes</u> Ergebnis
     ist hier wichtig, jede Lösung gilt, insbesondere auch gescheiterte
     Umsetzungen! Von den Teamerfahrungen kann man viel über die Ideen
@@ -1876,7 +1878,7 @@ damit seltener als andere Events statt, z.B. jeden zweiten Monat.
     sollte allen Beteiligten Spaß machen und sollte daher nicht
     bierernst oder zu formal durchgeführt werden.
 
-8.  **AUFARBEITUNG (NACH DEM HACKATHON)**: In einem letzten Schritt geht
+9.  **AUFARBEITUNG (NACH DEM HACKATHON)**: In einem letzten Schritt geht
     es um die Rekapitulation der gewonnenen Erkenntnisse und die
     kommunikative Aufarbeitung jeder Umsetzung (in Form eines Videos,
     One-Pagers, einer Demo etc.). Um den Wert der Ergebnisse und der
