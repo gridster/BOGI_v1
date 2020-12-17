@@ -4,7 +4,7 @@ Einführung in den
 
 Battle Of Glorious Ideas
 
-<img src="./media_v1/media/image1.png" style="width:4.16535in;height:4.16535in" />
+<img src="./media_v1/media/image1.png" />
 
 # Inhalt
 
@@ -1068,7 +1068,7 @@ beobachten wie Ihr Team mit den Vorschlägen umgeht.
 
 ## *BOGI* Rollen
 
-<img src="./media_v1/media/image2.png" style="width:5.82922in;height:3.61386in" />
+<img src="./media_v1/media/BOGI_Persona_GER.png" />
 
 Mögliche BOGI Persona / Rollen
 
@@ -1175,7 +1175,7 @@ durchaus profitieren. Damit dies gelingen kann, sollte ein *BOGI* GUIDE
 auserkoren werden, der die Moderation der Veranstaltung übernimmt und
 somit auch kommunikativ durch den Tag (inklusive der Agenda) geleitet.
 
-<img src="./media_v1/media/image3.png" style="width:4.13668in;height:5.83001in" />
+<img src="./media_v1/media/bogi_roles_minimal_GER.png" />
 
 Typische Rollen und Funktionen
 
@@ -1185,7 +1185,7 @@ Typische Rollen und Funktionen
 Als Analogie folgt der Aufbau des *BOGI* Boards dem schematischen Aufbau
 eines Innovation Funnels / Innovationstrichters.
 
-<img src="./media_v1/media/image4.png" style="width:5.83001in;height:4.13668in" />
+<img src="./media_v1/media/Innovation_Funnel_simple_GER.png" />
 
 Visualisierung Ihres Funnels im Board
 
@@ -1216,7 +1216,7 @@ Archivierung. Die Gestaltung des Boards orientiert sich also an Ihrem
 finalen Workflow. Zu Beginn ist es dabei ratsam schlank zu beginnen und
 die Komplexität zu erhöhen, wenn es wirklich nötig wird.
 
-<img src="./media_v1/media/image5.png" style="width:5.83001in;height:4.13668in" />
+<img src="./media_v1/media/BOGI_BOARD_minimal_flow_GER.png" />
 
 Schema eines minimalen *BOGI* Boards (Stage-1 bis 3)
 
@@ -1311,7 +1311,7 @@ muss also auch wieder das nötige Zeitbudget reflektiert werden,
 insbesondere wenn Kollisionen mit anderen Prioritäten zu erwarten wären
 oder Aufwände nicht sinnvoll verteilt sind.
 
-<img src="./media_v1/media/image6.png" style="width:5.83001in;height:4.13668in" />
+<img src="./media_v1/media/BOGI_Sequence_minimal_GER.png" />
 
 ### *BOGI* SESSION (~ the weekly arena)
 
@@ -1328,7 +1328,7 @@ wird.
 Eine einzelne *BOGI* Session dauert **60-90 Minuten** (so der
 Vorschlag).
 
-<img src="./media_v1/media/image7.png" style="width:6.40945in;height:4.54724in" />
+<img src="./media_v1/media/BOGI_Session_GER.png" />
 
 Der grobe **Ablauf einer Sitzung** besteht aus zwei Teilen:
 
@@ -1502,7 +1502,7 @@ Ideen können pro Sitzung an die Reihe kommen. Diese Balance muss die
 Gruppe selbst verinnerlichen – mit der Zeit läuft es in der Regel ganz
 gut.
 
-<img src="./media_v1/media/image8.png" style="width:5.83001in;height:4.13668in" />
+<img src="./media_v1/media/BOGI_BOARD_bogi_session_1_GER.png" />
 
 Ideen bewerten und aufnehmen
 
@@ -1562,8 +1562,8 @@ könnte während der laufenden Sitzung also eine ***BOGI* Battle Card
 (Moderator)** für die schnelle Protokollierung von Ideen verwenden, z.B.
 in der Form:
 
-<img src="./media_v1/media/image9.png" style="width:2.66667in;height:3.75826in" alt="Battle Cards (Moderator) im BOGI" />
-<img src="./media_v1/media/image10.png" style="width:2.66667in;height:3.75826in" alt="Battle Cards (Moderator) im BOGI" />
+<img src="./media_v1/media/BOGI_Battlecard_Moderator_minimal.png" alt="Battle Cards (Moderator) im BOGI" />
+<img src="./media_v1/media/BOGI_Battlecard_Moderator_minimal_back.png" alt="Battle Cards (Moderator) im BOGI" />
 
 Die Teammitglieder können ebenso eine ***BOGI* Battle Card (Team)**
 verwenden, um die subjektive Sicht oder Fragen für die Diskussion
@@ -1581,8 +1581,8 @@ schnell vermittelt werden und sind dann in Folge doch weniger wertvoll),
 (subjektives Gefallen oder empfundener WOW!-Faktor), „Machbarkeit“
 (grobe Schätzung für die Realisierung).
 
-<img src="./media_v1/media/image13.png" style="width:2.58326in;height:3.64071in" alt="Battle Cards im BOGI" />
-<img src="./media_v1/media/image14.png" style="width:2.58268in;height:3.64173in" alt="Battle Cards im BOGI" />
+<img src="./media_v1/media/BOGI_Battlecard_TEAM_minimal.png" alt="Battle Cards im BOGI" />
+<img src="./media_v1/media/BOGI_Battlecard_TEAM_minimal_back.png" alt="Battle Cards im BOGI" />
 
 Der Vorteil solcher Karten ist, dass man sich in einer Diskussion
 schneller an die wesentlichen Aspekte erinnern kann, die zu jeder Idee
@@ -1639,7 +1639,7 @@ Kandidaten**.
 Die Frage lautet: Welche Kandidaten haben das Zeug zum **Battle
 Candidate?**
 
-<img src="./media_v1/media/image15.png" style="width:5.83001in;height:4.13668in" />
+<img src="./media_v1/media/BOGI_BOARD_bogi_session_2_GER.png" />
 
 Zwei neue Battle Candidates Qualifizieren
 
@@ -1750,7 +1750,7 @@ auch im *BOGI*. Und im besonderen Maße gilt dies vielleicht für den
 
 ### *BOGI* HACKATHON
 
-<img src="./media_v1/media/image16.png" style="width:5.83001in;height:4.13668in" alt="Grober Fahrplan für einen Hackathon" />
+<img src="./media_v1/media/image16.png" alt="Grober Fahrplan für einen Hackathon" />
 
 Grober Fahrplan für einen Hackathon
 
