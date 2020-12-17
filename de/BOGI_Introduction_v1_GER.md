@@ -4,7 +4,7 @@ Hinweis: Dieser Text wird auch als [PDF](./pdf/BOGI_v1_GER.pdf) (~3.5 Mb) angebo
 
 ## Einführung in den Battle Of Glorious Ideas (v.1)
 
-<img src="./media_v1/media/image1.png" />
+<img src="./media_v1/media/image1.png" style="margin:0 auto;"/>
 
 # Inhalt
 
