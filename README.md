@@ -1,11 +1,14 @@
 # BOGI
+
 Intro to the battle of glorious ideas.
 
 # BOGI v1
 
-The latest version of the BOGI is v1, it is available in German, see [BOGI Introduction V1 (GER)](./de/BOGI_Introduction_v1_GER.md)
+The latest version of the BOGI is v1, it is available in German, see [BOGI Introduction V1 (GER)](./de/BOGI_Introduction_v1_GER.md). A pdf version of the text is available as well: [BOGI Introduction V1 (GER, PDF)](./de/pdf/BOGI_v1_GER.pdf). 
 
-It is published under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).  
+
+The BOGI introduction is published under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+Author of the BOGI is Sebastian Benderoth.  
 
 ## What is the BOGI?
 
