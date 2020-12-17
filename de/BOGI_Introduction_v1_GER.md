@@ -1,4 +1,4 @@
-#THE BOGI
+# THE BOGI
 
 ## Einführung in den Battle Of Glorious Ideas (v.1)
 
