@@ -1,8 +1,6 @@
-THE BOGI
+#THE BOGI
 
-Einführung in den
-
-Battle Of Glorious Ideas
+## Einführung in den Battle Of Glorious Ideas (v.1)
 
 <img src="./media_v1/media/image1.png" />
 
@@ -1789,9 +1787,6 @@ damit seltener als andere Events statt, z.B. jeden zweiten Monat.
 > Der HACKATHON erfordert im Vorfeld ein gewisses Maß an Logistik, wenn
 > er jedoch ein paar Mal durchgeführt wurde, geht die Vorbereitung des
 > Events immer leichter und effizienter von der Hand.
-
-1.  
-
 > Bestimmen Sie früh genug helfende Hände (*BOGI* GUIDEs) und bereiten
 > Sie den Tag vor.
 
